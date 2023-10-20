@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <div align="center">
 <h2> Hi There, Welcome to my Github profile!</h2>
@@ -20,7 +20,7 @@
 I'm a Full Stack Developer designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 
-I'm currently based in **[Colombo, Sri Lanka]
+I'm currently based in <b>Colombo, Sri Lanka</b>
 <br />
 I love learning new techs and using new tools. I also love drinking Coffee while coding.
 <br />
